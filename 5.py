@@ -1,4 +1,4 @@
-print (" LET'S CALCULATE Greatest Common Divisor 🤪🥴 ")
+print (" LET'S CALCULATE GREATEST COMMON DIVISOR 🤓🧐 ")
 
 first = int ( input (" Please enter first number : "))
 second = int ( input (" Please enter second number : "))
